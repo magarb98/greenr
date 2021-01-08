@@ -8,6 +8,6 @@ public class GreenrController
     @RequestMapping("/")
     public String hello()
     {
-        return "Hello Testing";
+        return "Hello User";
     }
 }
